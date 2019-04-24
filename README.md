@@ -1,3 +1,20 @@
+# Metronome
+**Individual Lab: React.js**
+
+## Exercise Brief
+
+[Project Brief](https://gist.github.com/StevenMeiklejohn/8e14a18d2bdd072bd29488a1a365acda)
+
+## Screen grabs
+
+![Desktop](./ScreenGrabs/desktop_screenshot.png)
+-> _Desktop_
+
+![Mobile](./ScreenGrabs/mobile_screenshot.png)
+-> _Mobile_
+
+## Build Setup
+``` bash
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +83,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```
