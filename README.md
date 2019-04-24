@@ -10,7 +10,7 @@
 ![Desktop](./ScreenGrabs/desktop_screenshot.png)
 -> _Desktop_
 
-![Mobile](./ScreenGrabs/mobile_screenshot.png =250x)
+![Mobile](./ScreenGrabs/mobile_screenshot.png){:height="100px"}
 -> _Mobile_
 
 ## Build Setup
