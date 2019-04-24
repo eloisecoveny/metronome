@@ -3,7 +3,7 @@ import React from "react";
 const Speed = (props) => {
 
   return (
-    <p>Speed: {props.speed} BPM</p>
+    <p>{props.speed} BPM</p>
   )
 }
 

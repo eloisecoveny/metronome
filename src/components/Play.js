@@ -8,7 +8,7 @@ const Play = (props) => {
 
   return (
     <div>
-      <button onClick={playAudio}>Play</button>
+      <button onClick={playAudio}></button>
     </div>
   )
 }

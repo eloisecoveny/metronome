@@ -41,8 +41,7 @@ class MetronomeContainer extends Component {
 
   render(){
     return (
-      <div id="mentronome">
-        <h1>Metronome</h1>
+      <div className="metronome">
         <Speed speed={this.state.speed} />
         <Adjuster adjustSpeed={this.adjustSpeed}/>
         <Play playAudio={this.playAudio} />

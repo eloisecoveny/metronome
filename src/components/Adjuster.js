@@ -8,9 +8,9 @@ const Adjuster = (props) => {
   }
 
   return (
-    <div>
+    <div className="adjuster">
       <label>-</label>
-      <input type="range" id="intervalID" onChange={handleAdjustSpeed} name="speed" min="0" max="218"/>
+      <input type="range" id="speed" onChange={handleAdjustSpeed} name="speed" min="0" max="218" />
       <label>+</label>
     </div>
   )
